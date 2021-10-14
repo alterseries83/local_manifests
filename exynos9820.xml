@@ -13,4 +13,4 @@
   <project name="LineageOS/android_hardware_samsung_nfc" path="hardware/samsung/nfc" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="refs/heads/lineage-18.1" />
-</manifests>
+</manifest>
