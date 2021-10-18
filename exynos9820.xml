@@ -4,9 +4,9 @@
   <project name="LineageOS/android_device_samsung_beyond1lte" path="device/samsung/beyond1lte" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_device_samsung_beyond2lte" path="device/samsung/beyond2lte" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_device_samsung_beyondx" path="device/samsung/beyondx" remote="github" revision="refs/heads/lineage-18.1" />
-  <project name="LineageOS/android_device_samsung_d1" path="device/samsung/d1" remote="github" revision="refs/heads/lineage-18.1" />
-  <project name="alterseries83/android_device_samsung_d2s" path="device/samsung/d2s" remote="github" revision="refs/heads/lineage-18.1" />
-  <project name="LineageOS/android_device_samsung_d2x" path="device/samsung/d2x" remote="github" revision="refs/heads/lineage-18.1" />
+  <project name="alterseries83/android_device_samsung_d1" path="device/samsung/d1" remote="github" revision="refs/heads/cherish-11" />
+  <project name="alterseries83/android_device_samsung_d2s" path="device/samsung/d2s" remote="github" revision="refs/heads/cherish-11" />
+  <project name="alterseries83/android_device_samsung_d2x" path="device/samsung/d2x" remote="github" revision="refs/heads/cherish-11" />
   <project name="LineageOS/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="bertin0/android_hardware_samsung" path="hardware/samsung" remote="github" revision="refs/heads/lineage-18.1" />
