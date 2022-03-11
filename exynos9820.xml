@@ -9,7 +9,7 @@
   <project name="alterseries83/android_device_samsung_d2x" path="device/samsung/d2x" remote="github" revision="refs/heads/cherish-11" />
   <project name="LineageOS/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="refs/heads/lineage-18.1" />
-  <project name="bertin0/android_hardware_samsung" path="hardware/samsung" remote="github" revision="refs/heads/dot11" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_hardware_samsung_nfc" path="hardware/samsung/nfc" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="LineageOS/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="github" revision="refs/heads/lineage-18.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="refs/heads/lineage-18.1" />
